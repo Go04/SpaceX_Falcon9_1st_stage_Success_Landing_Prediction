@@ -1,1 +1,5 @@
 # SpaceX_Falcon9_1st_stage_Success_Landing_Prediction
+
+このGitHubリポジトリには、IBMデータサイエンス プロフェッショナル認定（Coursera）の最終課題として作成した、SpaceX Falcon 9の1段目着陸成功予測に関するJupyterノートブックと、それをまとめたPDFファイルが含まれています。
+
+内容としては、APIおよびウェブスクレイピングによるデータ収集、データ前処理、探索的データ分析（EDA）、機械学習モデルの構築が含まれ、さらにPlotly Dashを使ったダッシュボード作成や、Foliumを使用したインタラクティブな地理分析も行っています。
